@@ -1,6 +1,13 @@
 # onlinestore.github.io
-Online store website from scratch using HTML CSS JS
 
-This website is under construction.
+Responsive online store website from scratch using HTML CSS JS.
 
-The progress can be checked via https://saraahsain.github.io/onlinestore.github.io/
+This website is a static website of an e commerce store.
+It has a:
+- Home page,
+- List of products page,
+- Example of product detail,
+- Static cart,
+- Login/Register form.
+
+The website can be checked via https://saraahsain.github.io/onlinestore.github.io/
